@@ -72,6 +72,14 @@ email-validator-project/
 
 ---
 
+## 🤝 Contribuições
+Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades.  
+Abra uma **issue** ou envie um **pull request**.
+
+---
+
 ## 👤 Autor
 **Carlos Caetano**  
 🔗 [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN) | 💻 [GitHub](https://github.com/Carlos-ccaetano)  
+
+---
